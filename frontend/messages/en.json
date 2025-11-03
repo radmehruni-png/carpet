@@ -1,0 +1,37 @@
+{
+  "ProductList": {
+    "title": "Product List"
+  },
+  "ProductDetail": {
+    "addToCart": "Add to Cart"
+  },
+  "Checkout": {
+    "title": "Checkout",
+    "name": "Name",
+    "address": "Address",
+    "creditCard": "Credit Card",
+    "placeOrder": "Place Order",
+    "orderSummary": "Order Summary"
+  },
+  "Navigation": {
+    "shop": "Shop",
+    "historyOfCarpets": "History of Carpets",
+    "historyOfPersia": "History of Persia"
+  },
+  "HistoryOfCarpets": {
+    "title": "History of Iranian Carpets",
+    "paragraph1": "Carpet weaving is an essential part of Persian culture and Iranian art. The earliest surviving evidence of carpet weaving is the Pazyryk carpet, which dates back to the 5th century BC. It was discovered in a Scythian nobleman's tomb in the Altai Mountains of Siberia.",
+    "paragraph2": "Persian carpets are known for their variety and elaborateness of design. They were woven by nomadic tribes, in village and town workshops, and by royal court manufactories. The carpets of the Safavid period (1501-1736) are particularly famous for their intricate designs and vibrant colors.",
+    "paragraph3": "The tradition of carpet weaving has been passed down through generations and continues to be an important industry in Iran today."
+  },
+  "HistoryOfPersia": {
+    "title": "History of Ancient Persia",
+    "paragraph1": "Ancient Iran, historically known as Persia, was a dominant nation in Western Asia for over a millennium. Three successive dynasties, the Achaemenid, Parthian, and Sasanian, controlled a vast and complex empire.",
+    "achaemenidTitle": "The Achaemenid Empire (550-330 BC)",
+    "achaemenidParagraph": "Founded by Cyrus the Great, the Achaemenid Empire was the largest empire of antiquity. It stretched from the Indus Valley to Northern Greece and from Central Asia to Egypt. The empire was known for its respect for different cultures and religions.",
+    "parthianTitle": "The Parthian Empire (247 BC - 224 AD)",
+    "parthianParagraph": "The Parthians reclaimed the lands lost to the Greeks and established an empire that lasted for nearly 500 years. They were the primary rivals of the Roman Empire.",
+    "sasanianTitle": "The Sasanian Empire (224-651 AD)",
+    "sasanianParagraph": "The Sasanians overthrew the Parthians and created a new Iranian self-image with a more centralized administration and a strong military. They engaged in frequent warfare with the Roman and Byzantine Empires."
+  }
+}
